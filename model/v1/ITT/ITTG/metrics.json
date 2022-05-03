@@ -1,0 +1,1 @@
+{"validation_accuracy": 0.9654856444715944, "SPCode_prediction_accuracy": 0.417, "JobOrgCode_prediction_accuracy": 0.425, "subFamily_prediction_accuracy": 1.0, "Grade_prediction_accuracy": {"0.0": 0.458, "1.0": 0.325, "2.0": 0.125, "overall": 0.908}}
